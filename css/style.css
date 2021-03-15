@@ -207,6 +207,9 @@
             .slider_left_arrow button:hover, .slider_right_arrow button:hover{
                 opacity: .75;
             }
+            .slider_left_arrow button:active, .slider_right_arrow button:active{
+                outline: none;
+            }
 
 
             .slider{
@@ -221,17 +224,17 @@
             }
             .slider_deer_title{
                 position: absolute;
-                left: 220px;
+                padding-left: 125px;
                 bottom: 77px;
             }
             .slider_squirrel_title{
                 position: absolute;
-                left: 560px;
+                padding-left: 110px;
                 bottom: 77px;
             }
             .slider_bird_title{
                 position: absolute;
-                left: 930px;
+                padding-left: 130px;
                 bottom: 77px;
             }
             .slider_title_caption{
