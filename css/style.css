@@ -199,10 +199,14 @@
             .slider_left_arrow button{
                 border: none;
                 background: none;
+                
+                    
             }
             .slider_right_arrow button{
                 border: none;
                 background: none;
+               
+
             }
             .slider_left_arrow button:hover, .slider_right_arrow button:hover{
                 opacity: .75;
@@ -221,6 +225,7 @@
                 font-size: 22px;
                 line-height: 36px;
                 color: #F7F7F7;
+                
             }
             .slider_deer_title{
                 position: absolute;
@@ -253,6 +258,11 @@
 
                 padding-left: 88px;
             }
+            .slider_pic_deer, .slider_pic_squirrel{
+                margin-right: 60px;
+            }
+
+
             .notify_title{
                 margin-top: 240px;
                 font-size: 27px;
